@@ -1,1 +1,1 @@
-# Java-ralphavalon-1
+Dummy template
